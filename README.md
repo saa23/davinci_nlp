@@ -1,5 +1,6 @@
 # davinci_nlp
-Collection of NLP assignment projects of IndonesiaAI Bootcamp NLP Class Batch 2
+A collection of NLP task projects.
+Ranging from implementation of Deep Learning model, transformer-based model, and other state-of-the-art model or algorithms in NLP.
 
 
 # Project 1 - Sentiment Analysis
